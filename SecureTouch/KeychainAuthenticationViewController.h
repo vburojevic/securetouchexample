@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  KeychainAuthenticationViewController.h
 //  SecureTouch
 //
 //  Created by Vedran Burojevic on 28/09/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface KeychainAuthenticationViewController : UIViewController
 
 @end
-
